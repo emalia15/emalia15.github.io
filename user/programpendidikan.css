@@ -1,0 +1,39 @@
+.konten {
+    max-width: 1000px; /* Atur lebar maksimum konten */
+    margin: 0 auto; /* Mengatur margin kiri dan kanan otomatis, yang akan memposisikan elemen di tengah */
+    text-align: justify; /* Mengatur rata kiri dan rata kanan */
+    padding: 20px; /* Menambahkan padding agar konten tidak terlalu dekat dengan tepi window */
+}
+
+.konten h2 {
+
+}
+
+body {
+    background-color: #f8f9fa; /* Warna latar belakang */
+    font-family: Arial, sans-serif; /* Jenis font */
+    line-height: 1.6; /* Jarak antar baris */
+}
+
+/* style.css */
+
+.card-img-top {
+    width: 300px; /* Sesuaikan dengan lebar yang diinginkan */
+    height: 300px; /* Sesuaikan dengan tinggi yang diinginkan */
+    object-fit: cover; /* Mempertahankan aspek gambar */
+    margin-right: 5%;
+}
+
+.card.program-card {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.card-body {
+    flex: 1; /* Menyesuaikan ukuran card-body agar mengambil sisa ruang */
+}
+
+
+
+

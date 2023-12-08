@@ -1,0 +1,48 @@
+.card {
+    max-width: 540px;
+    margin: auto;
+  }
+  
+  .card .row {
+    display: flex;
+    align-items: center;
+  }
+  
+  .card img {
+    width: 300px; /* Sesuaikan dengan lebar yang diinginkan */
+    height: 300px; /* Sesuaikan dengan tinggi yang diinginkan */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Pusatkan gambar horizontalmente */
+    object-fit: cover; /* Mempertahankan aspek gambar */
+    margin-right: 5%;
+  }
+  
+  .card-body {
+    flex: 1; /* Menyesuaikan ukuran card-body agar mengambil sisa ruang */
+  }
+  
+  /* Mengubah ukuran card secara umum */
+  .card {
+    width: 100%; /* Sesuaikan dengan lebar yang diinginkan */
+    max-width: 1000px; /* Sesuaikan dengan lebar maksimum yang diinginkan */
+  }
+  
+  /* Atau, jika Anda ingin mengatur ukuran kartu secara spesifik untuk setiap card */
+  .card-1 {
+    width: 100%; /* Sesuaikan dengan lebar yang diinginkan */
+    max-width: 600px; /* Sesuaikan dengan lebar maksimum yang diinginkan */
+  }
+  
+  .card-2 {
+    width: 100%; /* Sesuaikan dengan lebar yang diinginkan */
+    max-width: 600px; /* Sesuaikan dengan lebar maksimum yang diinginkan */
+  }
+  
+  .card-3 {
+    width: 100%; /* Sesuaikan dengan lebar yang diinginkan */
+    max-width: 600px; /* Sesuaikan dengan lebar maksimum yang diinginkan */
+  }
+  
+  
+  

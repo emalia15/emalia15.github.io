@@ -1,0 +1,151 @@
+/* styles.css */
+.navbar {
+    background-color: #0477BF;
+   
+}
+
+.navbar-brand {
+    color: #fff; /* Warna teks */
+    font-size: 20px;
+}
+
+.form-control{
+    height: 35px;
+}
+
+.mb-0{
+    font-size: 30px;
+}
+
+.mb-2{
+    font-size: 18px;
+}
+
+.footer-20192 {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 20px 0; /* Tambahkan padding agar kontennya tidak terlalu dekat dengan tepi footer */
+}
+
+.footer-20192 img {
+    width: 250px; /* Atur lebar gambar */
+    height: auto; /* Biarkan tinggi mengikuti proporsi aspek gambar */
+}
+
+.footer-20192 h4 {
+    color: #fff; /* Warna teks untuk judul */
+}
+
+.footer-20192 ul {
+    list-style: none; /* Hilangkan bullet point dari list */
+    padding: 0; /* Hilangkan padding bawaan pada list */
+}
+
+.footer-20192 li {
+    margin-bottom: 10px; /* Beri jarak antara setiap item pada list */
+}
+
+.footer-20192 .social a {
+    color: #fff; /* Warna ikon media sosial */
+    font-size: 30px; /* Ukuran font ikon media sosial */
+    margin-right: 10px; /* Beri jarak antara setiap ikon */
+}
+
+.footer-20192 .mb-0 {
+    margin-bottom: 0; /* Hilangkan margin bawaan pada elemen dengan class mb-0 */
+}
+
+.footer-20192 ul li {
+    font-size: 14px; /* Atur ukuran font sesuai keinginan */
+}
+
+/* Tambahkan ini ke dalam file style.css */
+
+
+/* .search button:hover{
+    background-color: #A6A6A6;
+}
+*/
+
+.custom-img {
+    height: 600px; 
+    object-fit: cover; 
+}
+
+.custom-img1 {
+    height: 300px; 
+    object-fit: cover; 
+}
+
+.btn-outline-light:hover {
+    background-color: #A6A6A6; /* Ganti dengan warna abu-abu yang diinginkan */
+}
+
+.btn-outline-light:hover i {
+    color: #000; /* Ganti dengan warna ikon yang diinginkan */
+}
+
+
+    /* Warna tombol saat kursor tidak mengarah padanya */
+    .btn-primary {
+        background-color: #007bff; /* Ganti dengan warna yang diinginkan */
+        border-color: #007bff;
+    }
+
+    /* Warna tombol saat kursor mengarah padanya */
+    .btn-primary:hover {
+        background-color: #0056b3; /* Ganti dengan warna yang diinginkan pada hover */
+        border-color: #0056b3;
+    }
+
+    /* Mengatur warna font untuk daftar yang ada di dalam class "list-unstyled" */
+.col-sm .list-unstyled li a {
+    color: #ffffff; /* Ganti dengan kode warna yang diinginkan */
+}
+
+/* CSS untuk CONTACT US */
+.col-sm h4 {
+    font-size: 25px;
+}
+
+.col-md-3 .list-unstyled.links a {
+    font-size: 14px;
+}
+
+/* CSS untuk FOLLOW US */
+.col-md-3 h4 {
+    font-size: 25px;
+}
+
+.col-md-3 .list-unstyled.social a {
+    font-size: 18px;
+}
+
+/* Aturan CSS untuk mengatur jarak antar list dengan padding */
+.col-md-3 .list-unstyled.social li {
+    padding-bottom: 10px; /* Ganti nilai sesuai kebutuhan desain Anda */
+}
+
+.carousel-caption {
+    background-color: rgba(63, 63, 63, 0.5);
+    padding: 20px; /* Sesuaikan padding sesuai kebutuhan untuk memperluas background */
+    margin-left: -14rem ;/* Menghilangkan margin agar background mencapai pinggir elemen */
+    width: 100%;
+}
+
+.caousel-item{
+    border:2px solid yellowss;;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

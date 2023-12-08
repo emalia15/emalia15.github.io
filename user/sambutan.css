@@ -1,0 +1,8 @@
+.konten {
+    max-width: 1000px; /* Atur lebar maksimum konten */
+    margin: 0 auto; /* Mengatur margin kiri dan kanan otomatis, yang akan memposisikan elemen di tengah */
+    text-align: justify; /* Mengatur rata kiri dan rata kanan */
+    padding: 20px; /* Menambahkan padding agar konten tidak terlalu dekat dengan tepi window */
+}
+
+

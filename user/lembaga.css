@@ -1,0 +1,23 @@
+.card {
+  max-width: 540px;
+  margin: auto;
+}
+
+.card .row {
+  display: flex;
+  align-items: center;
+}
+
+.card-body {
+  flex: 1; /* Menyesuaikan ukuran card-body agar mengambil sisa ruang */
+}
+
+/* Mengubah ukuran card secara umum */
+.card {
+    width: 100%; /* Sesuaikan dengan lebar yang diinginkan */
+    max-width: 1000px; /* Sesuaikan dengan lebar maksimum yang diinginkan */
+  }
+
+
+
+
